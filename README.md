@@ -27,6 +27,11 @@ src/lib/ API client & types
 src/styles/ Global styles
 src/app/globals.css
 
+# Run locally
+ cd fronrtend-globopersona
+ npm install
+ npm run
+
 # Design notes
 
 - clean interface with a light theme, warm neutrals, and teal accents
