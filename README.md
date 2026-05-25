@@ -28,9 +28,9 @@ src/styles/ Global styles
 src/app/globals.css
 
 # Run locally
- cd fronrtend-globopersona
- npm install
- npm run
+- cd fronrtend-globopersona
+- npm install
+- npm run
 
 # Design notes
 
